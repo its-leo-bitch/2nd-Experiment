@@ -18,21 +18,12 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ഹായ് {}, എന്റെ പേര് [WONKRU_BOT](https://telegra.ph/file/05a04df36ee855ca87d63.jpg)
-ഞാൻ [ഇദ്ദേഹം](tg://user?id={}) നോക്കി നടത്തുന്ന ഒരു അടിപൊളി AI ബോട്ടാണ്.
+ഹായ് {}, എന്റെ പേര് {}! 
+ഞാൻ [ഇദ്ദേഹം](tg://user?id={}) നോക്കി നടത്തുന്ന ഒരു അടിപൊളി അഡ്മിൻ ബോട്ടാണ്.
+എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
+python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക് [ഇവിടെ](https://) കാണാവുന്നതാണ്.
+വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
 
-"""
-
-
-buttons += [[InlineKeyboardButton(text="📡 ADD ME TO YOUR GROUP ",
-                                  url="t.me/WONKRU_BOT?startgroup=True"),
-]]
-
-buttons += [[InlineKeyboardButton(text="🏅 Deploy Now",
-                                  url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fits-leo-bitch%2F2nd-Experiment&template=https%3A%2F%2Fgithub.com%2Fits-leo-bitch%2F2nd-Experiment"),
-             InlineKeyboardButton(text="👨‍💻SUPPORT",
-                                  url="https://t.me/Xeqiuist"),
-]]
 
 
 
