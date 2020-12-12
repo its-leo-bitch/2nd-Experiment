@@ -21,7 +21,7 @@ PM_START_TEXT = """
 ഹായ് {}, എന്റെ പേര് {}! 
 ഞാൻ [ഇദ്ദേഹം](tg://user?id={}) നോക്കി നടത്തുന്ന ഒരു അടിപൊളി അഡ്മിൻ ബോട്ടാണ്.
 എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
-python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക് [ഇവിടെ](https://) കാണാവുന്നതാണ്.
+python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക് [ഇവിടെ](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fits-leo-bitch%2F2nd-Experiment&template=https%3A%2F%2Fgithub.com%2Fits-leo-bitch%2F2nd-Experiment) കാണാവുന്നതാണ്.
 വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
 
 
