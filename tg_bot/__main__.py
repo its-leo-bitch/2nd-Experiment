@@ -23,13 +23,13 @@ PM_START_TEXT = """
 """
 
 
-buttons += [[InlineKeyboardButton(text="🌍 ADD ME TO YOUR GROUP 🌍",
+buttons += [[InlineKeyboardButton(text="📡 ADD ME TO YOUR GROUP ",
                                   url="t.me/WONKRU_BOT?startgroup=True"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="💾 Deploy Now",
+buttons += [[InlineKeyboardButton(text="🏅 Deploy Now",
                                   url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fits-leo-bitch%2F2nd-Experiment&template=https%3A%2F%2Fgithub.com%2Fits-leo-bitch%2F2nd-Experiment"),
-             InlineKeyboardButton(text="🌳SUPPORT",
+             InlineKeyboardButton(text="👨‍💻SUPPORT",
                                   url="https://t.me/Xeqiuist"),
 ]]
 """
