@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img https://telegra.ph/file/05a04df36ee855ca87d63.jpg"
+    <img "https://telegra.ph/file/05a04df36ee855ca87d63.jpg"
     <a href="https://github.com/its-leo-bitch/2nd-Experiment/commits/master"><img src="https://img.shields.io/github/last-commit/its-leo-bitch/2nd-Experiment-/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
     <a href="https://github.com/its-leo-bitch/1st-experiment-/stargazers"><img src="https://img.shields.io/github/stars/its-leo-bitch/2nd-Experiment?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
     <a href="https://github.com/its-leo-bitch/2nd-Experiment/network/members"><img src="https://img.shields.io/github/forks/its-leo-bitch/2nd-Experiment?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
