@@ -1,7 +1,6 @@
 # WONKRU_BOT 
 <p align="center">
-<img src="https://telegra.ph/file/7891c5a8eb0ee937df8cd.jpg
-
+<img src="https://telegra.ph/file/7891c5a8eb0ee937df8cd.jpg alt="Mia Khalifa bot">
 
 
 <p align="center">
