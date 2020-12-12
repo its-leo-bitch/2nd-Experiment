@@ -1,7 +1,8 @@
 
 {
-  "name": "Marie_Chechi2.0",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "name": "WONKRU_BOT",
+  "description": "Its me leo's Supper AI group manager!",
+  "logo": "https://telegra.ph/file/05a04df36ee855ca87d63.jpg" ,
   "keywords": [
     "telegram",
     "best",
@@ -9,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/TGExplore/Marie_Chechi2.0",
+  "repository": "hhttps://github.com/its-leo-bitch/2nd-Experiment.git",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
